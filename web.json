@@ -1,0 +1,11 @@
+{
+  "ACTION": {
+    "TITLE": "Title",
+    "SUBTITLE": "Subtitle",
+    "TYPE": "WEB",
+    "WEB": {
+      "LINK": "",
+      "RSA": false
+    }
+  }
+}
