@@ -1,0 +1,11 @@
+{
+  "ACTION": {
+    "TITLE": "Title",
+    "SUBTITLE": "Subtitle",
+    "TYPE": "GALLERY",
+    "GALLERY": {
+      "DATASET": "dataset",
+      "FOLDER": "folder"
+    }
+  }
+}
