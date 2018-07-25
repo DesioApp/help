@@ -1,0 +1,15 @@
+{
+  "ACTION": {
+    "TITLE": "ActionBarTitle",
+    "SUBTITLE": "ActionBarSubtitle",
+    "TYPE": "MENU",
+    "MENU": [
+      {
+        "ICON": "f015",
+        "TITLE": "Title",
+        "SUBTITLE": "Subtitle",
+        "VISIBLE": true
+      }
+    ]
+  }
+}
