@@ -1,0 +1,16 @@
+{
+  "ACTION": {
+    "TITLE": "ActionBarTitle",
+    "SUBTITLE": "ActionBarSubtitle",
+    "TYPE": "CALENDAR",
+    "CALENDAR": [
+      {
+        "TYPE": "LIST/SCROLL",
+        "DATETYPE":"FIXED/WEEKDAY/NUMBER",
+        "LIST":{
+          
+        }
+      }
+    ]
+  }
+}
